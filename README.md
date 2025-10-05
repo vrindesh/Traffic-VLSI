@@ -4,10 +4,13 @@ Schematics
 Schematics Subparts -:
 Counter
 <img width="817" height="713" alt="image" src="https://github.com/user-attachments/assets/b23bee2a-5ad9-4c43-bce1-5590e2e8e95a" />
+
 T FlipFlop
+
 <img width="940" height="893" alt="image" src="https://github.com/user-attachments/assets/052d5c9d-69b8-45d4-9f4c-bd9578751808" />
 
 1*32_DEMUX
+
 <img width="505" height="910" alt="image" src="https://github.com/user-attachments/assets/9e648fda-1580-422c-a416-b47c0f11fe58" />
 
 
